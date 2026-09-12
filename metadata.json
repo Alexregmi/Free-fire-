@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire AI Bot Control Panel",
+  "description": "A complete modern Free Fire AI Bot Control Panel website featuring UID and Region setup, the Brain Emote Engine, real-time TCP telemetry, live activity logs, Friend & Guild tools, and secure demo mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
